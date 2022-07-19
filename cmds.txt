@@ -1,0 +1,7 @@
+git init - to initialize git
+
+git add . - to add files
+
+ if green - all the files are added/ if red not addedd
+
+git commit -m "random msgs"
